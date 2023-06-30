@@ -91,5 +91,5 @@ So you now have the errors of each comparision, the lowest error means the test 
 Next function outputs the index of min value in the array, hence we get the index of the training image and we can index the class similarly.
 
 And there you go, you got the classes and it does seem correct right.
-
+Apply the same logic to cifar10 dataset.
 
